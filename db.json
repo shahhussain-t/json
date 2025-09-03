@@ -6,7 +6,8 @@
       "answer": "Artificial Intelligence (AI) is a branch of computer science that focuses on creating intelligent machines capable of performing tasks that typically require human intelligence, such as learning, reasoning, problem-solving, and decision-making.",
       "category": "Technology",
       "difficulty": "Beginner",
-      "tags": ["AI", "Computer Science", "Technology"]
+      "tags": ["AI", "Computer Science", "Technology"],
+      "imageurl:"https://cloudinary-marketing-res.cloudinary.com/images/w_1000,c_scale/v1679921049/Image_URL_header/Image_URL_header-png?_i=AA"
     },
     {
       "id": "q002",
@@ -14,7 +15,8 @@
       "answer": "Machine learning works by using algorithms to analyze data, identify patterns, and make predictions or decisions without being explicitly programmed for each specific task. It involves training models on large datasets to improve their accuracy over time.",
       "category": "Technology",
       "difficulty": "Intermediate",
-      "tags": ["Machine Learning", "AI", "Data Science"]
+      "tags": ["Machine Learning", "AI", "Data Science"],
+      "imageurl:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrPpXfAZGdF-U04amMsIn1xqvLuUV0PeYSRg&s"
     },
     {
       "id": "q003",
