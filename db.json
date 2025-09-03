@@ -25,7 +25,7 @@
       "category": "Technology",
       "difficulty": "Beginner",
       "tags": ["Cloud Computing", "Infrastructure", "Business"],
-      "imageurl": ""
+      "imageurl": null
     },
     {
       "id": "q004",
@@ -34,7 +34,7 @@
       "category": "Security",
       "difficulty": "Beginner",
       "tags": ["Cybersecurity", "Security", "Data Protection"],
-      "imageurl": ""
+      "imageurl": null
     },
     {
       "id": "q005",
@@ -43,7 +43,7 @@
       "category": "Technology",
       "difficulty": "Intermediate",
       "tags": ["Database", "Data Management", "SQL"],
-      "imageurl": ""
+      "imageurl": null
     },
     {
       "id": "q006",
@@ -52,7 +52,7 @@
       "category": "Business",
       "difficulty": "Beginner",
       "tags": ["Project Management", "Business", "Planning"],
-      "imageurl": ""
+      "imageurl": null
     },
     {
       "id": "q007",
@@ -61,7 +61,7 @@
       "category": "Technology",
       "difficulty": "Intermediate",
       "tags": ["API", "Integration", "Software Development"],
-      "imageurl": ""
+      "imageurl": null
     },
     {
       "id": "q008",
@@ -70,7 +70,7 @@
       "category": "Marketing",
       "difficulty": "Beginner",
       "tags": ["Digital Marketing", "SEO", "Social Media"],
-      "imageurl": ""
+      "imageurl": null
     },
     {
       "id": "q009",
@@ -79,7 +79,7 @@
       "category": "Technology",
       "difficulty": "Advanced",
       "tags": ["Blockchain", "Cryptocurrency", "Distributed Systems"],
-      "imageurl": ""
+      "imageurl": null
     },
     {
       "id": "q010",
@@ -88,7 +88,7 @@
       "category": "Design",
       "difficulty": "Intermediate",
       "tags": ["UX Design", "User Research", "Product Design"],
-      "imageurl": ""
+      "imageurl": null
     },
     {
       "id": "q011",
@@ -97,7 +97,7 @@
       "category": "Business",
       "difficulty": "Intermediate",
       "tags": ["Agile", "Software Development", "Project Management"],
-      "imageurl": ""
+      "imageurl": null
     },
     {
       "id": "q012",
@@ -106,7 +106,7 @@
       "category": "Technology",
       "difficulty": "Intermediate",
       "tags": ["Data Analytics", "Business Intelligence", "Statistics"],
-      "imageurl": ""
+      "imageurl": null
     },
     {
       "id": "q013",
@@ -115,7 +115,7 @@
       "category": "Technology",
       "difficulty": "Intermediate",
       "tags": ["Version Control", "Git", "Software Development"],
-      "imageurl": ""
+      "imageurl": null
     },
     {
       "id": "q014",
@@ -124,7 +124,7 @@
       "category": "Business",
       "difficulty": "Intermediate",
       "tags": ["Business Intelligence", "Data Analysis", "Decision Making"],
-      "imageurl": ""
+      "imageurl": null
     },
     {
       "id": "q015",
@@ -133,7 +133,7 @@
       "category": "Technology",
       "difficulty": "Advanced",
       "tags": ["Microservices", "Software Architecture", "Scalability"],
-      "imageurl": ""
+      "imageurl": null
     }
   ]
 }
