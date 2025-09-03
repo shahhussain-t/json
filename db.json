@@ -7,7 +7,7 @@
       "category": "Technology",
       "difficulty": "Beginner",
       "tags": ["AI", "Computer Science", "Technology"],
-      "imageurl:"https://cloudinary-marketing-res.cloudinary.com/images/w_1000,c_scale/v1679921049/Image_URL_header/Image_URL_header-png?_i=AA"
+      "imageurl": "https://cloudinary-marketing-res.cloudinary.com/images/w_1000,c_scale/v1679921049/Image_URL_header/Image_URL_header-png?_i=AA"
     },
     {
       "id": "q002",
@@ -16,7 +16,7 @@
       "category": "Technology",
       "difficulty": "Intermediate",
       "tags": ["Machine Learning", "AI", "Data Science"],
-      "imageurl:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrPpXfAZGdF-U04amMsIn1xqvLuUV0PeYSRg&s"
+      "imageurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrPpXfAZGdF-U04amMsIn1xqvLuUV0PeYSRg&s"
     },
     {
       "id": "q003",
@@ -24,7 +24,8 @@
       "answer": "Cloud computing offers several benefits including cost reduction, scalability, flexibility, automatic updates, enhanced collaboration, disaster recovery, and the ability to access data and applications from anywhere with an internet connection.",
       "category": "Technology",
       "difficulty": "Beginner",
-      "tags": ["Cloud Computing", "Infrastructure", "Business"]
+      "tags": ["Cloud Computing", "Infrastructure", "Business"],
+      "imageurl": ""
     },
     {
       "id": "q004",
@@ -32,7 +33,8 @@
       "answer": "Cybersecurity is the practice of protecting systems, networks, and data from digital attacks, unauthorized access, and cyber threats. It involves implementing security measures, protocols, and technologies to safeguard information and maintain system integrity.",
       "category": "Security",
       "difficulty": "Beginner",
-      "tags": ["Cybersecurity", "Security", "Data Protection"]
+      "tags": ["Cybersecurity", "Security", "Data Protection"],
+      "imageurl": ""
     },
     {
       "id": "q005",
@@ -40,7 +42,8 @@
       "answer": "Databases work by storing, organizing, and managing data in structured formats. They use database management systems (DBMS) to handle data operations like creating, reading, updating, and deleting records, while ensuring data integrity and supporting concurrent access.",
       "category": "Technology",
       "difficulty": "Intermediate",
-      "tags": ["Database", "Data Management", "SQL"]
+      "tags": ["Database", "Data Management", "SQL"],
+      "imageurl": ""
     },
     {
       "id": "q006",
@@ -48,7 +51,8 @@
       "answer": "Project management is the application of knowledge, skills, tools, and techniques to project activities to meet project requirements. It involves planning, executing, monitoring, and closing projects while managing resources, timelines, and stakeholder expectations.",
       "category": "Business",
       "difficulty": "Beginner",
-      "tags": ["Project Management", "Business", "Planning"]
+      "tags": ["Project Management", "Business", "Planning"],
+      "imageurl": ""
     },
     {
       "id": "q007",
@@ -56,7 +60,8 @@
       "answer": "APIs (Application Programming Interfaces) are sets of protocols and tools that allow different software applications to communicate with each other. They work by defining how requests and responses should be formatted, enabling seamless data exchange between systems.",
       "category": "Technology",
       "difficulty": "Intermediate",
-      "tags": ["API", "Integration", "Software Development"]
+      "tags": ["API", "Integration", "Software Development"],
+      "imageurl": ""
     },
     {
       "id": "q008",
@@ -64,7 +69,8 @@
       "answer": "Digital marketing is the use of digital channels, platforms, and technologies to promote products, services, or brands to consumers. It includes strategies like SEO, social media marketing, email marketing, content marketing, and online advertising.",
       "category": "Marketing",
       "difficulty": "Beginner",
-      "tags": ["Digital Marketing", "SEO", "Social Media"]
+      "tags": ["Digital Marketing", "SEO", "Social Media"],
+      "imageurl": ""
     },
     {
       "id": "q009",
@@ -72,7 +78,8 @@
       "answer": "Blockchain technology works by creating a distributed ledger of transactions that is maintained across multiple computers. Each block contains a cryptographic hash of the previous block, creating an immutable chain that ensures transparency and security without requiring a central authority.",
       "category": "Technology",
       "difficulty": "Advanced",
-      "tags": ["Blockchain", "Cryptocurrency", "Distributed Systems"]
+      "tags": ["Blockchain", "Cryptocurrency", "Distributed Systems"],
+      "imageurl": ""
     },
     {
       "id": "q010",
@@ -80,7 +87,8 @@
       "answer": "User Experience (UX) design is the process of creating products that provide meaningful and relevant experiences to users. It involves understanding user needs, conducting research, creating wireframes and prototypes, and testing designs to ensure usability and satisfaction.",
       "category": "Design",
       "difficulty": "Intermediate",
-      "tags": ["UX Design", "User Research", "Product Design"]
+      "tags": ["UX Design", "User Research", "Product Design"],
+      "imageurl": ""
     },
     {
       "id": "q011",
@@ -88,7 +96,8 @@
       "answer": "Agile methodology is based on four key principles: individuals and interactions over processes and tools, working software over comprehensive documentation, customer collaboration over contract negotiation, and responding to change over following a plan. It emphasizes iterative development and continuous improvement.",
       "category": "Business",
       "difficulty": "Intermediate",
-      "tags": ["Agile", "Software Development", "Project Management"]
+      "tags": ["Agile", "Software Development", "Project Management"],
+      "imageurl": ""
     },
     {
       "id": "q012",
@@ -96,7 +105,8 @@
       "answer": "Data analytics is the process of examining, cleaning, transforming, and modeling data to discover useful information, draw conclusions, and support decision-making. It involves using statistical methods, algorithms, and tools to extract insights from structured and unstructured data.",
       "category": "Technology",
       "difficulty": "Intermediate",
-      "tags": ["Data Analytics", "Business Intelligence", "Statistics"]
+      "tags": ["Data Analytics", "Business Intelligence", "Statistics"],
+      "imageurl": ""
     },
     {
       "id": "q013",
@@ -104,7 +114,8 @@
       "answer": "Version control systems track changes to files and code over time, allowing developers to collaborate, maintain history, and manage different versions of projects. Tools like Git enable branching, merging, and rollback capabilities while maintaining a complete audit trail of modifications.",
       "category": "Technology",
       "difficulty": "Intermediate",
-      "tags": ["Version Control", "Git", "Software Development"]
+      "tags": ["Version Control", "Git", "Software Development"],
+      "imageurl": ""
     },
     {
       "id": "q014",
@@ -112,7 +123,8 @@
       "answer": "Business Intelligence (BI) is a technology-driven process that analyzes business data and presents actionable information to help executives, managers, and workers make informed business decisions. It includes data mining, analytics, reporting, and performance metrics.",
       "category": "Business",
       "difficulty": "Intermediate",
-      "tags": ["Business Intelligence", "Data Analysis", "Decision Making"]
+      "tags": ["Business Intelligence", "Data Analysis", "Decision Making"],
+      "imageurl": ""
     },
     {
       "id": "q015",
@@ -120,8 +132,8 @@
       "answer": "Microservices are a software architecture pattern where applications are built as a collection of small, independent services that communicate over well-defined APIs. Each service is responsible for a specific business function and can be developed, deployed, and scaled independently.",
       "category": "Technology",
       "difficulty": "Advanced",
-      "tags": ["Microservices", "Software Architecture", "Scalability"]
+      "tags": ["Microservices", "Software Architecture", "Scalability"],
+      "imageurl": ""
     }
   ]
- 
 }
